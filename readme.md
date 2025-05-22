@@ -31,7 +31,7 @@ Bu projede kullanılan detect_defects_by_diff fonksiyonu, iki görüntü arasın
 ##  Model Doğruluğu
 | Metrik                  | Değer                                                        |
 | ----------------------- | ------------------------------------------------------------ |
-| **Doğruluk (Accuracy)** | **%56.00**                                                   |
+| **Doğruluk (Accuracy)** | **%76.00**                                                   |
 | Test Koşulları          | Genişletilmiş simülasyon veri seti üzerinde test edilmiştir. |
 | Hedef                   | Leke, deformasyon ve yırtık hatalarının tespiti              |
 
