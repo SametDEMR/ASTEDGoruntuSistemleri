@@ -1,3 +1,5 @@
+#23ttg5hackathon2025
+
 # Göz Pedi Hata Tespit Sistemi
 Bu proje, üretim sonrası göz pedlerinin yapısal doğruluğunu kontrol etmek amacıyla geliştirilmiş bir görüntü işleme tabanlı kalite kontrol sistemidir. Sistem, göz pedlerinde oluşabilecek yırtık, deformasyon, leke ve renk değişimleri gibi kusurları tespit eder ve kullanıcı tarafından belirlenen tolerans değerlerine göre ürünü kabul eder veya eler.
 
@@ -29,7 +31,7 @@ Bu projede kullanılan detect_defects_by_diff fonksiyonu, iki görüntü arasın
 ##  Model Doğruluğu
 | Metrik                  | Değer                                                        |
 | ----------------------- | ------------------------------------------------------------ |
-| **Doğruluk (Accuracy)** | **%56.00**                                                   |
+| **Doğruluk (Accuracy)** | **%76.00**                                                   |
 | Test Koşulları          | Genişletilmiş simülasyon veri seti üzerinde test edilmiştir. |
 | Hedef                   | Leke, deformasyon ve yırtık hatalarının tespiti              |
 
