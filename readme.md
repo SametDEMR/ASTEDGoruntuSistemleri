@@ -1,3 +1,5 @@
+#23ttg5hackathon2025
+
 # Göz Pedi Hata Tespit Sistemi
 Bu proje, üretim sonrası göz pedlerinin yapısal doğruluğunu kontrol etmek amacıyla geliştirilmiş bir görüntü işleme tabanlı kalite kontrol sistemidir. Sistem, göz pedlerinde oluşabilecek yırtık, deformasyon, leke ve renk değişimleri gibi kusurları tespit eder ve kullanıcı tarafından belirlenen tolerans değerlerine göre ürünü kabul eder veya eler.
 
